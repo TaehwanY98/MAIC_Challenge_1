@@ -1,0 +1,6 @@
+﻿*.csv
+*.zip
+train
+test
+Models
+Eval*
